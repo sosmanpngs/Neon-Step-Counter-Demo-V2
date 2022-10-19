@@ -1,5 +1,6 @@
 {
     "name": "Neon Step Counter DEMO",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
